@@ -62,12 +62,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\next.cs" />
+    <Compile Include="Assets\Scripts\next2.cs" />
     <Compile Include="Assets\Scripts\top.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/ryzen/Documents/遷移ゲーム/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
+    <Compile Include="Assets\Scripts\top1.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/ryzen/Documents/遷移ゲーム/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/ryzen/Documents/遷移ゲーム/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
